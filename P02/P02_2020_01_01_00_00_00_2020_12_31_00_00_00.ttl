@@ -1,0 +1,101 @@
+
+@prefix tree: <https://w3id.org/tree#> .
+@prefix ldes: <https://w3id.org/ldes#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+@base <https://marine-term-translations.github.io/P02-TEST/P02/2020-01-01%2000%3A00%3A00_2020-12-31%2000%3A00%3A00.ttl> .
+
+<>
+    a tree:Node ;
+    
+    tree:relation [
+      a tree:LessThanRelation ;
+      tree:node <https://marine-term-translations.github.io/P02-TEST/P02/2019-12-31%2000%3A00%3A00_2020-01-01%2000%3A00%3A00> ;
+      tree:path dc:modified ;
+      tree:value '2020-12-31T00:00:00+00:00'^^xsd:dateTime
+    ] ;
+    
+    ldes:retentionPolicy [
+        a ldes:RetentionPolicy ;
+        ldes:versionAmount 100
+    ] .
+
+<feed>
+  a ldes:EventStream ;
+  ldes:timestampPath dc:modified ;
+  ldes:versionOfPath dc:isVersionOf ;
+  ldes:immutable 'false'^^xsd:boolean ;
+  ldes:pollingInterval '3600'^^xsd:integer ;
+  tree:shape [
+    a sh:NodeShape ;
+    sh:nodeKind sh:IRI ;
+    sh:property [
+      sh:datatype xsd:string ;
+      sh:minCount 1 ;
+      sh:path dc:isVersionOf
+    ],
+    [
+      sh:datatype xsd:dateTime ;
+      sh:minCount 1 ;
+      sh:path dc:modified
+    ],
+    [
+      sh:datatype xsd:string ;
+      sh:minCount 1 ;
+      sh:path skos:altLabel
+    ],
+    [
+      sh:datatype xsd:string ;
+      sh:minCount 1 ;
+      sh:path skos:prefLabel
+    ],
+    [
+      sh:datatype xsd:string ;
+      sh:minCount 1 ;
+      sh:path skos:definition
+    ],
+    [
+      sh:datatype xsd:string ;
+      sh:minCount 1 ;
+      sh:path skos:notation
+    ];
+    sh:targetClass skos:Concept
+  ] ;
+  tree:view <> ;
+  .
+
+<feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MTSD/3/> .
+<http://vocab.nerc.ac.uk/collection/P02/current/MTSD/3/>
+    a skos:Concept ;
+    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MTSD/";
+    dc:modified '2020-10-20T15:00:08'^^xsd:dateTime ;
+    skos:altLabel 'Met_Sed'^^xsd:string ;
+    skos:prefLabel 'Metal concentrations in sediment'^^xsd:string ;
+    skos:definition 'Concentrations of metal elements per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface.'^^xsd:string ;
+    skos:notation 'SDN:P02::MTSD'^^xsd:string .
+<http://vocab.nerc.ac.uk/collection/P02/current/MTSD/>
+    dc:modified '2020-10-20T15:00:08'^^xsd:dateTime ;
+    skos:altLabel 'Met_Sed'^^xsd:string ;
+    skos:prefLabel 'Metal concentrations in sediment'^^xsd:string ;
+    skos:definition 'Concentrations of metal elements per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface.'^^xsd:string ;
+    skos:notation 'SDN:P02::MTSD'^^xsd:string .
+    
+<feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/GP013/1/> .
+<http://vocab.nerc.ac.uk/collection/P02/current/GP013/1/>
+    a skos:Concept ;
+    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/GP013/";
+    dc:modified '2020-10-17T20:07:47'^^xsd:dateTime ;
+    skos:altLabel 'CoralHealth'^^xsd:string ;
+    skos:prefLabel 'Coral infection and damage'^^xsd:string ;
+    skos:definition 'Parameters related to the health and conservation status of coral species and coralligenous habitats.'^^xsd:string ;
+    skos:notation 'SDN:P02::GP013'^^xsd:string .
+<http://vocab.nerc.ac.uk/collection/P02/current/GP013/>
+    dc:modified '2020-10-17T20:07:47'^^xsd:dateTime ;
+    skos:altLabel 'CoralHealth'^^xsd:string ;
+    skos:prefLabel 'Coral infection and damage'^^xsd:string ;
+    skos:definition 'Parameters related to the health and conservation status of coral species and coralligenous habitats.'^^xsd:string ;
+    skos:notation 'SDN:P02::GP013'^^xsd:string .
+    
