@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BLEN/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BLEN/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BLEN/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BLEN/> ;
     dc:modified '2006-09-29T17:06:50'^^xsd:dateTime ;
     skos:altLabel 'Animal_morph'^^xsd:string ;
     skos:prefLabel 'Zooplankton and zoobenthos morphological parameters'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MBAN/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MBAN/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MBAN/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/MBAN/> ;
     dc:modified '2006-09-29T16:58:04'^^xsd:dateTime ;
     skos:altLabel 'Bath_Elev'^^xsd:string ;
     skos:prefLabel 'Bathymetry and Elevation'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ATDP/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ATDP/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ATDP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ATDP/> ;
     dc:modified '2006-07-07T12:36:43'^^xsd:dateTime ;
     skos:altLabel 'At_Dep_Rate'^^xsd:string ;
     skos:prefLabel 'Atmospheric deposition rates'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SSCN/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SSCN/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SSCN/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SSCN/> ;
     dc:modified '2006-06-28T17:37:15'^^xsd:dateTime ;
     skos:altLabel 'Side_Scan'^^xsd:string ;
     skos:prefLabel 'Side-scan sonar'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SPAG/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SPAG/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SPAG/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SPAG/> ;
     dc:modified '2006-06-21T09:23:05'^^xsd:dateTime ;
     skos:altLabel 'Speleo_Age'^^xsd:string ;
     skos:prefLabel 'Speleothem age'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/HEAV/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/HEAV/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/HEAV/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/HEAV/> ;
     dc:modified '2006-06-13T15:25:06'^^xsd:dateTime ;
     skos:altLabel 'WaveHeight'^^xsd:string ;
     skos:prefLabel 'Wave height estimates'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CPRP/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CPRP/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CPRP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CPRP/> ;
     dc:modified '2006-06-13T14:28:34'^^xsd:dateTime ;
     skos:altLabel 'Precip+Evap'^^xsd:string ;
     skos:prefLabel 'Precipitation and evaporation'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CBSD/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CBSD/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CBSD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CBSD/> ;
     dc:modified '2006-06-13T09:21:23'^^xsd:dateTime ;
     skos:altLabel 'Sed_Carb'^^xsd:string ;
     skos:prefLabel 'Carbon concentrations in sediment'^^xsd:string ;
@@ -198,7 +198,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/OPFX/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/OPFX/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/OPFX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/OPFX/> ;
     dc:modified '2006-06-13T09:18:26'^^xsd:dateTime ;
     skos:altLabel 'WC_SedFlux_nonmet'^^xsd:string ;
     skos:prefLabel 'Sedimentation flux of non-metallic inorganic species in the water column'^^xsd:string ;
@@ -214,7 +214,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/PTOX/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/PTOX/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/PTOX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/PTOX/> ;
     dc:modified '2006-06-05T14:32:17'^^xsd:dateTime ;
     skos:altLabel 'Phycotox_biota'^^xsd:string ;
     skos:prefLabel 'Concentration of phycotoxins in biota'^^xsd:string ;
@@ -230,7 +230,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/R410/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/R410/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/R410/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/R410/> ;
     dc:modified '2006-06-05T14:11:44'^^xsd:dateTime ;
     skos:altLabel 'Ocean_clr'^^xsd:string ;
     skos:prefLabel 'Ocean colour and earth-leaving visible waveband spectral radiation'^^xsd:string ;
@@ -246,7 +246,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/VSRA/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/VSRA/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/VSRA/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/VSRA/> ;
     dc:modified '2006-06-05T14:02:32'^^xsd:dateTime ;
     skos:altLabel 'Atm_VisRad'^^xsd:string ;
     skos:prefLabel 'Visible waveband radiance and irradiance measurements in the atmosphere'^^xsd:string ;
@@ -262,7 +262,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/OZON/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/OZON/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/OZON/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/OZON/> ;
     dc:modified '2006-06-05T12:27:47'^^xsd:dateTime ;
     skos:altLabel 'Atm_O3_Oxy'^^xsd:string ;
     skos:prefLabel 'Ozone and oxygen concentrations in the atmosphere'^^xsd:string ;
@@ -278,7 +278,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ACO2/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ACO2/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ACO2/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ACO2/> ;
     dc:modified '2006-06-05T12:17:29'^^xsd:dateTime ;
     skos:altLabel 'Atm_pCO2'^^xsd:string ;
     skos:prefLabel 'Carbon monoxide and dioxide concentrations in the atmosphere'^^xsd:string ;
@@ -294,7 +294,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SUAT/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SUAT/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SUAT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SUAT/> ;
     dc:modified '2006-06-05T11:38:28'^^xsd:dateTime ;
     skos:altLabel 'Sulph_At'^^xsd:string ;
     skos:prefLabel 'Sulphur species concentrations in the atmosphere'^^xsd:string ;
@@ -310,7 +310,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CBSP/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CBSP/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CBSP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CBSP/> ;
     dc:modified '2006-05-26T14:55:39'^^xsd:dateTime ;
     skos:altLabel 'SPM_C'^^xsd:string ;
     skos:prefLabel 'Carbon concentrations in suspended particulate material'^^xsd:string ;
@@ -326,7 +326,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/COAS/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/COAS/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/COAS/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/COAS/> ;
     dc:modified '2006-05-26T14:47:05'^^xsd:dateTime ;
     skos:altLabel 'Land_map'^^xsd:string ;
     skos:prefLabel 'Terrestrial mapping'^^xsd:string ;
@@ -342,7 +342,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LWET/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/LWET/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/LWET/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/LWET/> ;
     dc:modified '2006-05-26T13:36:40'^^xsd:dateTime ;
     skos:altLabel 'LandWet'^^xsd:string ;
     skos:prefLabel 'Terrestrial water content'^^xsd:string ;
@@ -358,7 +358,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ATPC/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ATPC/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ATPC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ATPC/> ;
     dc:modified '2006-05-26T13:26:07'^^xsd:dateTime ;
     skos:altLabel 'At_Part'^^xsd:string ;
     skos:prefLabel 'Atmospheric particulates'^^xsd:string ;
@@ -374,7 +374,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LVEG/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/LVEG/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/LVEG/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/LVEG/> ;
     dc:modified '2006-05-26T10:18:46'^^xsd:dateTime ;
     skos:altLabel 'LandVeg'^^xsd:string ;
     skos:prefLabel 'Land vegetation'^^xsd:string ;
@@ -390,7 +390,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LSST/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/LSST/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/LSST/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/LSST/> ;
     dc:modified '2006-05-26T10:16:40'^^xsd:dateTime ;
     skos:altLabel 'LandTemp'^^xsd:string ;
     skos:prefLabel 'Land surface temperature'^^xsd:string ;
@@ -406,7 +406,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ATVS/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ATVS/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ATVS/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ATVS/> ;
     dc:modified '2006-05-26T09:57:58'^^xsd:dateTime ;
     skos:altLabel 'AtmosVis'^^xsd:string ;
     skos:prefLabel 'Atmospheric visibility and transparency'^^xsd:string ;
@@ -422,7 +422,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/IAGE/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/IAGE/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/IAGE/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/IAGE/> ;
     dc:modified '2006-02-20T11:55:04'^^xsd:dateTime ;
     skos:altLabel 'Age_Ice'^^xsd:string ;
     skos:prefLabel 'Ice age'^^xsd:string ;

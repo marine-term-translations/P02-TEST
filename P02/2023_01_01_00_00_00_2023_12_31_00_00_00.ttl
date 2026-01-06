@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FREP/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FREP/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FREP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FREP/> ;
     dc:modified '2023-12-11T15:57:56'^^xsd:dateTime ;
     skos:altLabel 'Fish_Rep'^^xsd:string ;
     skos:prefLabel 'Fish reproduction'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LRWL/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/LRWL/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/LRWL/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/LRWL/> ;
     dc:modified '2023-08-30T11:08:53'^^xsd:dateTime ;
     skos:altLabel 'LakeRiverLevel'^^xsd:string ;
     skos:prefLabel 'Lake and river water level parameters'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SPCN/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SPCN/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SPCN/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SPCN/> ;
     dc:modified '2023-08-02T11:45:27'^^xsd:dateTime ;
     skos:altLabel 'SingleParticle_char'^^xsd:string ;
     skos:prefLabel 'Single particle characterisation'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/EPSV/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/EPSV/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/EPSV/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/EPSV/> ;
     dc:modified '2023-08-01T15:58:28'^^xsd:dateTime ;
     skos:altLabel 'Raw_turbulence'^^xsd:string ;
     skos:prefLabel 'Raw turbulence sensor output'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SBGE/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/> ;
     dc:modified '2023-07-03T11:35:46'^^xsd:dateTime ;
     skos:altLabel 'Seabed_Geomorph'^^xsd:string ;
     skos:prefLabel 'Seabed geomorphology'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MDPW/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MDPW/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MDPW/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/MDPW/> ;
     dc:modified '2023-06-01T10:56:11'^^xsd:dateTime ;
     skos:altLabel 'Metoid_SedPW'^^xsd:string ;
     skos:prefLabel 'Trace metalloid and inorganic selenium concentrations in sediment pore water'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MDBO/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MDBO/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MDBO/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/MDBO/> ;
     dc:modified '2023-06-01T10:56:10'^^xsd:dateTime ;
     skos:altLabel 'Metoid_Biota'^^xsd:string ;
     skos:prefLabel 'Trace metalloid and inorganic selenium concentrations in biota'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/PXSD/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/PXSD/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/PXSD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/PXSD/> ;
     dc:modified '2023-04-21T11:55:38'^^xsd:dateTime ;
     skos:altLabel 'Sed_Phosphorus'^^xsd:string ;
     skos:prefLabel 'Phosphorus concentrations in sediment'^^xsd:string ;

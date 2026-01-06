@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SAMP/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SAMP/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SAMP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SAMP/> ;
     dc:modified '2018-12-11T13:04:28'^^xsd:dateTime ;
     skos:altLabel 'SamplingParams'^^xsd:string ;
     skos:prefLabel 'Sampling parameters'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LITT/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/LITT/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/LITT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/LITT/> ;
     dc:modified '2018-09-06T11:49:23'^^xsd:dateTime ;
     skos:altLabel 'Litter'^^xsd:string ;
     skos:prefLabel 'Litter abundance and type'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SLIT/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SLIT/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SLIT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SLIT/> ;
     dc:modified '2018-09-06T11:48:34'^^xsd:dateTime ;
     skos:altLabel 'SeaFloorLitter'^^xsd:string ;
     skos:prefLabel 'Sea-floor litter abundance'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BLIT/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BLIT/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BLIT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BLIT/> ;
     dc:modified '2018-09-06T11:45:25'^^xsd:dateTime ;
     skos:altLabel 'BeachLitter'^^xsd:string ;
     skos:prefLabel 'Beach litter abundance'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/D001/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/D001/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/D001/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/D001/> ;
     dc:modified '2018-04-04T11:42:45'^^xsd:dateTime ;
     skos:altLabel 'Sed_MicroPhytoBiomass'^^xsd:string ;
     skos:prefLabel 'Microphytobenthos biomass'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FATM/6/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FATM/6/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FATM/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FATM/> ;
     dc:modified '2018-02-12T14:04:58'^^xsd:dateTime ;
     skos:altLabel 'Fish_MorphAgePhys'^^xsd:string ;
     skos:prefLabel 'Fish morphology, age and physiology'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FATX/5/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FATX/5/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FATX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FATX/> ;
     dc:modified '2018-02-12T14:04:58'^^xsd:dateTime ;
     skos:altLabel 'Fish_abund'^^xsd:string ;
     skos:prefLabel 'Fish abundance in water bodies'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SABB/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SABB/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SABB/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SABB/> ;
     dc:modified '2018-02-12T14:04:58'^^xsd:dateTime ;
     skos:altLabel 'Sfish_AbundBiom'^^xsd:string ;
     skos:prefLabel 'Shellfish abundance and biomass in water bodies'^^xsd:string ;
@@ -198,7 +198,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SATM/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SATM/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SATM/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SATM/> ;
     dc:modified '2018-02-12T14:04:58'^^xsd:dateTime ;
     skos:altLabel 'Sfish_MorphAgePhys'^^xsd:string ;
     skos:prefLabel 'Shellfish morphology, age and physiology'^^xsd:string ;
@@ -214,7 +214,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SREP/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SREP/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SREP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SREP/> ;
     dc:modified '2018-02-12T14:04:58'^^xsd:dateTime ;
     skos:altLabel 'Sfish_Rep'^^xsd:string ;
     skos:prefLabel 'Shellfish reproduction'^^xsd:string ;
@@ -230,7 +230,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FCMW/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FCMW/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FCMW/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FCMW/> ;
     dc:modified '2018-01-11T12:13:10'^^xsd:dateTime ;
     skos:altLabel 'FCM_water'^^xsd:string ;
     skos:prefLabel 'Flow cytometry parameters in water bodies'^^xsd:string ;

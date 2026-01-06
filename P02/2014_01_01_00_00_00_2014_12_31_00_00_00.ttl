@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/EXSV/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/EXSV/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/EXSV/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/EXSV/> ;
     dc:modified '2014-10-08T09:56:52'^^xsd:dateTime ;
     skos:altLabel 'ExpStateVar'^^xsd:string ;
     skos:prefLabel 'Experiment state variables'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ZFIT/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ZFIT/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ZFIT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ZFIT/> ;
     dc:modified '2014-08-04T08:52:15'^^xsd:dateTime ;
     skos:altLabel 'ZooPhysioCondition'^^xsd:string ;
     skos:prefLabel 'Zooplankton and zoobenthos physiological condition parameters'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/EWSB/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/EWSB/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/EWSB/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/EWSB/> ;
     dc:modified '2014-05-27T12:10:12'^^xsd:dateTime ;
     skos:altLabel 'WindStrenDir'^^xsd:string ;
     skos:prefLabel 'Wind strength and direction'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FEFF/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FEFF/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FEFF/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FEFF/> ;
     dc:modified '2014-05-01T12:46:41'^^xsd:dateTime ;
     skos:altLabel 'FishEffort'^^xsd:string ;
     skos:prefLabel 'Fishing effort'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BRDA/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BRDA/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BRDA/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BRDA/> ;
     dc:modified '2014-03-26T09:14:08'^^xsd:dateTime ;
     skos:altLabel 'Bird_count'^^xsd:string ;
     skos:prefLabel 'Bird counts'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SDNA/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SDNA/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SDNA/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SDNA/> ;
     dc:modified '2014-02-20T09:20:24'^^xsd:dateTime ;
     skos:altLabel 'Biolpoly_sed'^^xsd:string ;
     skos:prefLabel 'Concentrations of biopolymers in sediment'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/WDNA/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/WDNA/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/WDNA/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/WDNA/> ;
     dc:modified '2014-02-20T09:18:00'^^xsd:dateTime ;
     skos:altLabel 'Biolpoly_water'^^xsd:string ;
     skos:prefLabel 'Concentrations of biopolymers in water bodies'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/TVLT/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/TVLT/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/TVLT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/TVLT/> ;
     dc:modified '2014-01-21T12:11:37'^^xsd:dateTime ;
     skos:altLabel 'Raw_SPM_optics'^^xsd:string ;
     skos:prefLabel 'Raw suspended particulate material concentration sensor output'^^xsd:string ;

@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/UMLS/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/UMLS/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/UMLS/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/UMLS/> ;
     dc:modified '2017-11-21T21:46:12'^^xsd:dateTime ;
     skos:altLabel 'Sed_Microlitter'^^xsd:string ;
     skos:prefLabel 'Micro-litter in sediments'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/UMLW/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/UMLW/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/UMLW/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/UMLW/> ;
     dc:modified '2017-11-21T21:40:48'^^xsd:dateTime ;
     skos:altLabel 'WC_Microlitter'^^xsd:string ;
     skos:prefLabel 'Micro-litter in water bodies'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/D000/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/D000/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/D000/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/D000/> ;
     dc:modified '2017-10-17T12:26:20'^^xsd:dateTime ;
     skos:altLabel 'Sed_MicroPhytoAbund'^^xsd:string ;
     skos:prefLabel 'Microphytobenthos abundance'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/HMSB/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/HMSB/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/HMSB/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/HMSB/> ;
     dc:modified '2017-09-05T13:50:27'^^xsd:dateTime ;
     skos:altLabel 'Org_Mat_Water'^^xsd:string ;
     skos:prefLabel 'Concentration of organic matter in water bodies'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BPRP/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BPRP/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BPRP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BPRP/> ;
     dc:modified '2017-08-11T11:06:28'^^xsd:dateTime ;
     skos:altLabel 'SDN_BioFormatCodes'^^xsd:string ;
     skos:prefLabel 'SeaDataNet biological format biotic parameters'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SSTB/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SSTB/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SSTB/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SSTB/> ;
     dc:modified '2017-08-09T14:08:26'^^xsd:dateTime ;
     skos:altLabel 'Iso_Sed'^^xsd:string ;
     skos:prefLabel 'Stable isotopes in sediment'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/WSTB/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/WSTB/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/WSTB/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/WSTB/> ;
     dc:modified '2017-08-09T14:07:35'^^xsd:dateTime ;
     skos:altLabel 'Iso_WC'^^xsd:string ;
     skos:prefLabel 'Stable isotopes in water bodies'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/IRSP/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/IRSP/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/IRSP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/IRSP/> ;
     dc:modified '2017-08-09T14:06:33'^^xsd:dateTime ;
     skos:altLabel 'Iso_Speleo'^^xsd:string ;
     skos:prefLabel 'Stable isotopes in speleothems'^^xsd:string ;
@@ -198,7 +198,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SIPW/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SIPW/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SIPW/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SIPW/> ;
     dc:modified '2017-08-09T14:05:42'^^xsd:dateTime ;
     skos:altLabel 'Iso_SedPoreWater'^^xsd:string ;
     skos:prefLabel 'Stable isotopes in sediment pore waters'^^xsd:string ;
@@ -214,7 +214,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/IRBO/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/IRBO/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/IRBO/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/IRBO/> ;
     dc:modified '2017-08-09T14:02:28'^^xsd:dateTime ;
     skos:altLabel 'Iso_Biota'^^xsd:string ;
     skos:prefLabel 'Stable isotopes in biota'^^xsd:string ;
@@ -230,7 +230,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ISAT/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ISAT/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ISAT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ISAT/> ;
     dc:modified '2017-08-09T14:01:36'^^xsd:dateTime ;
     skos:altLabel 'Iso_Atmos'^^xsd:string ;
     skos:prefLabel 'Stable isotopes in the atmosphere'^^xsd:string ;
@@ -246,7 +246,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/IRIC/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/IRIC/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/IRIC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/IRIC/> ;
     dc:modified '2017-08-09T14:00:30'^^xsd:dateTime ;
     skos:altLabel 'Iso_IceSnow'^^xsd:string ;
     skos:prefLabel 'Stable isotopes in ice and snow'^^xsd:string ;
@@ -262,7 +262,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/WRAD/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/WRAD/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/WRAD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/WRAD/> ;
     dc:modified '2017-08-09T13:54:31'^^xsd:dateTime ;
     skos:altLabel 'WC_RadAct'^^xsd:string ;
     skos:prefLabel 'Radioactivity in water bodies'^^xsd:string ;
@@ -278,7 +278,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ARAD/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ARAD/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ARAD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ARAD/> ;
     dc:modified '2017-08-09T13:49:17'^^xsd:dateTime ;
     skos:altLabel 'AtmosRad'^^xsd:string ;
     skos:prefLabel 'Radioactivity in the atmosphere'^^xsd:string ;
@@ -294,7 +294,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BRDD/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BRDD/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BRDD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BRDD/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Bird_taxa_abund'^^xsd:string ;
     skos:prefLabel 'Bird taxonomy-related abundance per unit area of surface'^^xsd:string ;
@@ -310,7 +310,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FBAF/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FBAF/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FBAF/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FBAF/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Fish_tax_afdw_biomass'^^xsd:string ;
     skos:prefLabel 'Fish taxonomy-related ash-free dry weight biomass per unit area of the bed'^^xsd:string ;
@@ -326,7 +326,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FBAB/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FBAB/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FBAB/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FBAB/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Fish_tax_aubund_bed'^^xsd:string ;
     skos:prefLabel 'Fish taxonomy-related abundance per unit area of the bed'^^xsd:string ;
@@ -342,7 +342,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FCNT/5/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FCNT/5/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FCNT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FCNT/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Fish_taxa_count'^^xsd:string ;
     skos:prefLabel 'Fish taxonomy-related counts'^^xsd:string ;
@@ -358,7 +358,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/IWAB/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/IWAB/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/IWAB/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/IWAB/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'InsWorm_tax_abund_bed'^^xsd:string ;
     skos:prefLabel 'Insect and earthworm taxonomy-related abundance per unit area of the bed'^^xsd:string ;
@@ -374,7 +374,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/IWDX/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/IWDX/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/IWDX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/IWDX/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'InsWorm_tax_afdw_biomass'^^xsd:string ;
     skos:prefLabel 'Insect and earthworm taxonomy-related ash-free dry weight biomass per unit area of the bed'^^xsd:string ;
@@ -390,7 +390,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/IATX/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/IATX/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/IATX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/IATX/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Insect_taxa_abund'^^xsd:string ;
     skos:prefLabel 'Insecta taxonomy-related abundance per unit volume of the water column'^^xsd:string ;
@@ -406,7 +406,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/IATC/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/IATC/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/IATC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/IATC/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Insect_txax_C_abund'^^xsd:string ;
     skos:prefLabel 'Insecta taxonomy-related biomass expressed as carbon per unit volume of the water column'^^xsd:string ;
@@ -422,7 +422,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MATC/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MATC/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MATC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/MATC/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Microzoo_taxa_C_biomass'^^xsd:string ;
     skos:prefLabel 'Microzooplankton taxonomy-related biomass expressed as carbon per unit volume of the water column'^^xsd:string ;
@@ -438,7 +438,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BDWC/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BDWC/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BDWC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BDWC/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Sed_TaxBacteriaAFDW'^^xsd:string ;
     skos:prefLabel 'Bacteria taxonomy-related ash-free dry weight biomass in sediment'^^xsd:string ;
@@ -454,7 +454,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BNTC/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BNTC/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BNTC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BNTC/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'WC_NontaxBacteriaCarbBiomass'^^xsd:string ;
     skos:prefLabel 'Bacteria non taxonomy-related biomass expressed as carbon per unit volume of the water column'^^xsd:string ;
@@ -470,7 +470,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BATC/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BATC/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BATC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BATC/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'WC_TaxBacteriaCarbBiomass'^^xsd:string ;
     skos:prefLabel 'Bacteria taxonomy-related biomass expressed as carbon per unit volume of the water column'^^xsd:string ;
@@ -486,7 +486,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/V999/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/V999/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/V999/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/V999/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'WC_TaxMicrozooBiovol'^^xsd:string ;
     skos:prefLabel 'Microzooplankton taxonomy-related biovolume per unit volume of the water column'^^xsd:string ;
@@ -502,7 +502,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/A999/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/A999/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/A999/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/A999/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'WC_TaxMicrozooSurfArea'^^xsd:string ;
     skos:prefLabel 'Microzooplankton taxonomy-related biosurface area per unit volume of the water column'^^xsd:string ;
@@ -518,7 +518,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ZCTC/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ZCTC/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ZCTC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ZCTC/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Zoo_taxa_C_biomass'^^xsd:string ;
     skos:prefLabel 'Zooplankton taxonomy-related biomass expressed as carbon per unit volume of the water column'^^xsd:string ;
@@ -534,7 +534,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ZCTN/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ZCTN/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ZCTN/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ZCTN/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Zoo_taxa_N_biomass'^^xsd:string ;
     skos:prefLabel 'Zooplankton taxonomy-related biomass expressed as nitrogen per unit volume of the water column'^^xsd:string ;
@@ -550,7 +550,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ZATX/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ZATX/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ZATX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ZATX/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Zoo_taxa_abund'^^xsd:string ;
     skos:prefLabel 'Zooplankton taxonomy-related abundance per unit volume of the water column'^^xsd:string ;
@@ -566,7 +566,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ZWTX/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ZWTX/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ZWTX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ZWTX/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Zoobenth_tax_ww_biomass'^^xsd:string ;
     skos:prefLabel 'Zoobenthos taxonomy-related wet weight biomass per unit area of the bed'^^xsd:string ;
@@ -582,7 +582,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ZOOB/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ZOOB/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ZOOB/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ZOOB/> ;
     dc:modified '2017-07-17T12:08:43'^^xsd:dateTime ;
     skos:altLabel 'Zoobenth_taxa_count'^^xsd:string ;
     skos:prefLabel 'Zoobenthos taxonomy-related counts'^^xsd:string ;
@@ -598,7 +598,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/INAP/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/INAP/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/INAP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/INAP/> ;
     dc:modified '2017-05-02T13:09:15'^^xsd:dateTime ;
     skos:altLabel 'Inapplicable'^^xsd:string ;
     skos:prefLabel 'inapplicable'^^xsd:string ;
@@ -614,7 +614,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/DGPW/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/DGPW/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/DGPW/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/DGPW/> ;
     dc:modified '2017-02-02T16:31:19'^^xsd:dateTime ;
     skos:altLabel 'Sed_O2'^^xsd:string ;
     skos:prefLabel 'Dissolved oxygen parameters for sediments'^^xsd:string ;
@@ -630,7 +630,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MDWP/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MDWP/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MDWP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/MDWP/> ;
     dc:modified '2017-01-23T15:40:48'^^xsd:dateTime ;
     skos:altLabel 'Metoid_WC_Part'^^xsd:string ;
     skos:prefLabel 'Particulate trace metalloid and inorganic selenium concentrations in water bodies'^^xsd:string ;
@@ -646,7 +646,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MDWD/5/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MDWD/5/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MDWD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/MDWD/> ;
     dc:modified '2017-01-23T15:40:45'^^xsd:dateTime ;
     skos:altLabel 'Metoid_WC_Diss'^^xsd:string ;
     skos:prefLabel 'Dissolved trace metalloid and inorganic selenium concentrations in water bodies'^^xsd:string ;

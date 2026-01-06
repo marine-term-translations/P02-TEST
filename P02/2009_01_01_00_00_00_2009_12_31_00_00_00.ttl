@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/AMUP/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/AMUP/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/AMUP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/AMUP/> ;
     dc:modified '2009-11-15T16:13:39'^^xsd:dateTime ;
     skos:altLabel 'Reg_prod'^^xsd:string ;
     skos:prefLabel 'Regenerated production in water bodies'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/NTUP/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/NTUP/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/NTUP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/NTUP/> ;
     dc:modified '2009-11-15T16:11:26'^^xsd:dateTime ;
     skos:altLabel 'New_prod'^^xsd:string ;
     skos:prefLabel 'New production in water bodies'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CLTY/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CLTY/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CLTY/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CLTY/> ;
     dc:modified '2009-10-12T15:31:31'^^xsd:dateTime ;
     skos:altLabel 'Atm_CloudType'^^xsd:string ;
     skos:prefLabel 'Cloud type'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FR11/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FR11/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FR11/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FR11/> ;
     dc:modified '2009-09-25T14:43:11'^^xsd:dateTime ;
     skos:altLabel 'WC_Freon'^^xsd:string ;
     skos:prefLabel 'Chlorofluorocarbon concentrations in the water column'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/DVLP/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/DVLP/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/DVLP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/DVLP/> ;
     dc:modified '2009-07-28T12:23:25'^^xsd:dateTime ;
     skos:altLabel 'Animal_devlopment'^^xsd:string ;
     skos:prefLabel 'Zooplankton and zoobenthos development stage parameters'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/GWAM/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/GWAM/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/GWAM/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/GWAM/> ;
     dc:modified '2009-06-01T11:34:47'^^xsd:dateTime ;
     skos:altLabel 'GwaterAmt'^^xsd:string ;
     skos:prefLabel 'Groundwater amount'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/GWCH/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/GWCH/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/GWCH/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/GWCH/> ;
     dc:modified '2009-06-01T11:34:00'^^xsd:dateTime ;
     skos:altLabel 'GwaterChem'^^xsd:string ;
     skos:prefLabel 'Groundwater chemistry'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/RBSC/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/RBSC/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/RBSC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/RBSC/> ;
     dc:modified '2009-05-20T15:08:16'^^xsd:dateTime ;
     skos:altLabel 'RadarBScatter'^^xsd:string ;
     skos:prefLabel 'Radar backscatter'^^xsd:string ;
@@ -198,7 +198,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/WCPH/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/WCPH/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/WCPH/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/WCPH/> ;
     dc:modified '2009-04-20T08:34:10'^^xsd:dateTime ;
     skos:altLabel 'WaterColPhoto'^^xsd:string ;
     skos:prefLabel 'Water column photography'^^xsd:string ;
@@ -214,7 +214,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SBPH/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SBPH/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SBPH/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SBPH/> ;
     dc:modified '2009-04-20T08:33:04'^^xsd:dateTime ;
     skos:altLabel 'BedPhoto'^^xsd:string ;
     skos:prefLabel 'Seabed photography'^^xsd:string ;
@@ -230,7 +230,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/HZNV/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/HZNV/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/HZNV/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/HZNV/> ;
     dc:modified '2009-04-20T08:27:53'^^xsd:dateTime ;
     skos:altLabel 'HazNav'^^xsd:string ;
     skos:prefLabel 'Hazards to navigation'^^xsd:string ;
@@ -246,7 +246,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/WQBI/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/WQBI/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/WQBI/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/WQBI/> ;
     dc:modified '2009-04-20T08:24:21'^^xsd:dateTime ;
     skos:altLabel 'WaterQualBioind'^^xsd:string ;
     skos:prefLabel 'Water quality bioindicators'^^xsd:string ;

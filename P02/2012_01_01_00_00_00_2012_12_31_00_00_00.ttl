@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ADUN/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ADUN/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ADUN/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ADUN/> ;
     dc:modified '2012-07-17T07:51:20'^^xsd:dateTime ;
     skos:altLabel 'AdminUnit'^^xsd:string ;
     skos:prefLabel 'Administrative units'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/AASD/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/AASD/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/AASD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/AASD/> ;
     dc:modified '2012-03-02T16:22:50'^^xsd:dateTime ;
     skos:altLabel 'SedAlkenoneAlkenoate'^^xsd:string ;
     skos:prefLabel 'Concentration of alkenones and alkenoates in sediment'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SALK/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SALK/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SALK/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SALK/> ;
     dc:modified '2012-03-01T16:27:53'^^xsd:dateTime ;
     skos:altLabel 'Sed_AliphaticHC'^^xsd:string ;
     skos:prefLabel 'Concentration of aliphatic hydrocarbons in sediment samples'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/TOCH/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/TOCH/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/TOCH/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/TOCH/> ;
     dc:modified '2012-03-01T16:21:17'^^xsd:dateTime ;
     skos:altLabel 'CarbPhenolAlkanolAldKetWater'^^xsd:string ;
     skos:prefLabel 'Concentration of carbohydrates, phenols, alkanols (alcohols), aldehydes and ketones in water bodies'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CASD/5/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CASD/5/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CASD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CASD/> ;
     dc:modified '2012-03-01T16:21:17'^^xsd:dateTime ;
     skos:altLabel 'CarbPhenolAlkanolEtherAldKetSed'^^xsd:string ;
     skos:prefLabel 'Concentration of carbohydrates, phenols, alkanols (alcohols), ethers, aldehydes and ketones in sediment'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/A01X/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/A01X/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/A01X/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/A01X/> ;
     dc:modified '2012-03-01T16:14:45'^^xsd:dateTime ;
     skos:altLabel 'WC_SedFluxAlkeno'^^xsd:string ;
     skos:prefLabel 'Sedimentation flux of alkenones and alkenoates in the water column'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CAKN/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CAKN/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CAKN/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CAKN/> ;
     dc:modified '2012-03-01T16:12:48'^^xsd:dateTime ;
     skos:altLabel 'Akenone+alkenoate_WC'^^xsd:string ;
     skos:prefLabel 'Concentration of alkenones and alkenoates in the water column'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LIBI/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/LIBI/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/LIBI/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/LIBI/> ;
     dc:modified '2012-03-01T16:10:50'^^xsd:dateTime ;
     skos:altLabel 'Lipid_Biota'^^xsd:string ;
     skos:prefLabel 'Biota lipid concentrations'^^xsd:string ;
@@ -198,7 +198,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CD10/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CD10/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CD10/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CD10/> ;
     dc:modified '2012-03-01T16:10:50'^^xsd:dateTime ;
     skos:altLabel 'Sed_Lipids'^^xsd:string ;
     skos:prefLabel 'Sediment lipid concentrations'^^xsd:string ;
@@ -214,7 +214,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/F001/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/F001/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/F001/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/F001/> ;
     dc:modified '2012-03-01T16:10:50'^^xsd:dateTime ;
     skos:altLabel 'WC_Lipids'^^xsd:string ;
     skos:prefLabel 'Water body lipid concentrations'^^xsd:string ;
@@ -230,7 +230,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/WBRX/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/WBRX/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/WBRX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/WBRX/> ;
     dc:modified '2012-02-16T09:27:29'^^xsd:dateTime ;
     skos:altLabel 'RC_redox'^^xsd:string ;
     skos:prefLabel 'Water body redox potential'^^xsd:string ;

@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MTSD/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MTSD/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MTSD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/MTSD/> ;
     dc:modified '2020-10-20T15:00:08'^^xsd:dateTime ;
     skos:altLabel 'Met_Sed'^^xsd:string ;
     skos:prefLabel 'Metal concentrations in sediment'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/GP013/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/GP013/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/GP013/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/GP013/> ;
     dc:modified '2020-10-17T20:07:47'^^xsd:dateTime ;
     skos:altLabel 'CoralHealth'^^xsd:string ;
     skos:prefLabel 'Coral infection and damage'^^xsd:string ;

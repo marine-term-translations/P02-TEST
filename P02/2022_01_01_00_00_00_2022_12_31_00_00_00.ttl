@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FDMS/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FDMS/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FDMS/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FDMS/> ;
     dc:modified '2022-05-03T06:36:22'^^xsd:dateTime ;
     skos:altLabel 'WCAt_GasFlux'^^xsd:string ;
     skos:prefLabel 'Gas fluxes between the water column and the atmosphere'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FOCA/7/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FOCA/7/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FOCA/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FOCA/> ;
     dc:modified '2022-04-27T16:57:20'^^xsd:dateTime ;
     skos:altLabel 'Seal_Abund'^^xsd:string ;
     skos:prefLabel 'Seal abundance'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/OMPW/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/OMPW/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/OMPW/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/OMPW/> ;
     dc:modified '2022-04-27T16:57:20'^^xsd:dateTime ;
     skos:altLabel 'Sed_OrganoMet'^^xsd:string ;
     skos:prefLabel 'Organometallic and organometalloid species concentration parameters in sediments'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CPWC/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CPWC/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CPWC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CPWC/> ;
     dc:modified '2022-04-27T16:57:20'^^xsd:dateTime ;
     skos:altLabel 'WC_ChlPigs'^^xsd:string ;
     skos:prefLabel 'Chlorophyll pigment concentrations in water bodies'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/AMON/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/AMON/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/AMON/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/AMON/> ;
     dc:modified '2022-04-27T16:57:20'^^xsd:dateTime ;
     skos:altLabel 'WC_NH4'^^xsd:string ;
     skos:prefLabel 'Ammonium and ammonia concentration parameters in water bodies'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/DMST/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/DMST/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/DMST/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/DMST/> ;
     dc:modified '2022-04-27T16:57:20'^^xsd:dateTime ;
     skos:altLabel 'WC_OrgS'^^xsd:string ;
     skos:prefLabel 'Organosulphur and organoselenium species concentration parameters in water bodies'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/OMWC/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/OMWC/4/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/OMWC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/OMWC/> ;
     dc:modified '2022-04-27T16:57:20'^^xsd:dateTime ;
     skos:altLabel 'Water_OrganoMet'^^xsd:string ;
     skos:prefLabel 'Organometallic and organometalloid species concentration parameters in water bodies'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/RALT/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/RALT/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/RALT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/RALT/> ;
     dc:modified '2022-03-21T11:28:44'^^xsd:dateTime ;
     skos:altLabel 'RockAlt'^^xsd:string ;
     skos:prefLabel 'Rock alteration'^^xsd:string ;
@@ -198,7 +198,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/AMOX/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/AMOX/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/AMOX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/AMOX/> ;
     dc:modified '2022-01-29T12:35:25'^^xsd:dateTime ;
     skos:altLabel 'WC_Nitrif_Denitr'^^xsd:string ;
     skos:prefLabel 'Nitrification and denitrification rates in water bodies'^^xsd:string ;

@@ -70,7 +70,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SRFL/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SRFL/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SRFL/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SRFL/> ;
     dc:modified '2007-11-22T11:35:40'^^xsd:dateTime ;
     skos:altLabel 'Reflection'^^xsd:string ;
     skos:prefLabel 'Seismic reflection'^^xsd:string ;
@@ -86,7 +86,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SRFR/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SRFR/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SRFR/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SRFR/> ;
     dc:modified '2007-11-22T11:35:40'^^xsd:dateTime ;
     skos:altLabel 'Refraction'^^xsd:string ;
     skos:prefLabel 'Seismic refraction'^^xsd:string ;
@@ -102,7 +102,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SDAC/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SDAC/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/SDAC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SDAC/> ;
     dc:modified '2007-11-22T11:35:40'^^xsd:dateTime ;
     skos:altLabel 'Sed_acoustics'^^xsd:string ;
     skos:prefLabel 'Sediment acoustics'^^xsd:string ;
@@ -118,7 +118,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/UVRD/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/UVRD/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/UVRD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/UVRD/> ;
     dc:modified '2007-11-21T16:30:18'^^xsd:dateTime ;
     skos:altLabel 'UVRad'^^xsd:string ;
     skos:prefLabel 'Ultra-violet (UV) radiation'^^xsd:string ;
@@ -134,7 +134,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/EXCO/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/EXCO/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/EXCO/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/EXCO/> ;
     dc:modified '2007-11-21T16:27:57'^^xsd:dateTime ;
     skos:altLabel 'Extco'^^xsd:string ;
     skos:prefLabel 'Light extinction and diffusion coefficients'^^xsd:string ;
@@ -150,7 +150,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ATTN/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ATTN/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ATTN/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ATTN/> ;
     dc:modified '2007-11-21T16:25:20'^^xsd:dateTime ;
     skos:altLabel 'WC_Trans+Attn'^^xsd:string ;
     skos:prefLabel 'Transmittance and attenuance of the water column'^^xsd:string ;
@@ -166,7 +166,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/GRAV/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/GRAV/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/GRAV/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/GRAV/> ;
     dc:modified '2007-11-21T16:22:51'^^xsd:dateTime ;
     skos:altLabel 'Gravity'^^xsd:string ;
     skos:prefLabel 'Gravity'^^xsd:string ;
@@ -182,7 +182,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ICEM/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ICEM/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ICEM/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ICEM/> ;
     dc:modified '2007-09-24T16:19:08'^^xsd:dateTime ;
     skos:altLabel 'Ice_motion'^^xsd:string ;
     skos:prefLabel 'Ice motion and related parameters'^^xsd:string ;
@@ -198,7 +198,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BLUM/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BLUM/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BLUM/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BLUM/> ;
     dc:modified '2007-09-24T16:17:57'^^xsd:dateTime ;
     skos:altLabel 'Biolum'^^xsd:string ;
     skos:prefLabel 'Bioluminescence parameters'^^xsd:string ;
@@ -214,7 +214,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MINC/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MINC/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/MINC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/MINC/> ;
     dc:modified '2007-09-24T16:12:07'^^xsd:dateTime ;
     skos:altLabel 'Min_chem'^^xsd:string ;
     skos:prefLabel 'Mineral chemistry'^^xsd:string ;
@@ -230,7 +230,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/RGAS/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/RGAS/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/RGAS/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/RGAS/> ;
     dc:modified '2007-09-24T11:56:11'^^xsd:dateTime ;
     skos:altLabel 'Raw_gas'^^xsd:string ;
     skos:prefLabel 'Raw gas analyser output'^^xsd:string ;
@@ -246,7 +246,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ASLV/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ASLV/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ASLV/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ASLV/> ;
     dc:modified '2007-06-19T11:32:16'^^xsd:dateTime ;
     skos:altLabel 'Sea_Level'^^xsd:string ;
     skos:prefLabel 'Sea level'^^xsd:string ;
@@ -262,7 +262,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FPRT/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FPRT/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FPRT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FPRT/> ;
     dc:modified '2007-03-30T08:16:12'^^xsd:dateTime ;
     skos:altLabel 'ZooDefRate'^^xsd:string ;
     skos:prefLabel 'Zooplankton defecation rates in the water column'^^xsd:string ;
@@ -278,7 +278,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CNDC/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CNDC/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CNDC/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CNDC/> ;
     dc:modified '2007-03-02T11:40:14'^^xsd:dateTime ;
     skos:altLabel 'WC_Cond'^^xsd:string ;
     skos:prefLabel 'Electrical conductivity of the water column'^^xsd:string ;
@@ -294,7 +294,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/PSAL/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/PSAL/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/PSAL/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/PSAL/> ;
     dc:modified '2007-03-02T11:36:26'^^xsd:dateTime ;
     skos:altLabel 'WC_Sal'^^xsd:string ;
     skos:prefLabel 'Salinity of the water column'^^xsd:string ;
@@ -310,7 +310,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/TEMP/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/TEMP/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/TEMP/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/TEMP/> ;
     dc:modified '2007-03-02T11:33:02'^^xsd:dateTime ;
     skos:altLabel 'WC_Temp'^^xsd:string ;
     skos:prefLabel 'Temperature of the water column'^^xsd:string ;
@@ -326,7 +326,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FCRT/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FCRT/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/FCRT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/FCRT/> ;
     dc:modified '2007-03-02T11:26:48'^^xsd:dateTime ;
     skos:altLabel 'Zoopl_feeding'^^xsd:string ;
     skos:prefLabel 'Zooplankton feeding'^^xsd:string ;
@@ -342,7 +342,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/COGE/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/COGE/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/COGE/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/COGE/> ;
     dc:modified '2007-02-26T08:22:53'^^xsd:dateTime ;
     skos:altLabel 'Coast_Geomorph'^^xsd:string ;
     skos:prefLabel 'Coastal geomorphology'^^xsd:string ;
@@ -358,7 +358,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/BRAD/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/BRAD/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/BRAD/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/BRAD/> ;
     dc:modified '2007-02-26T08:05:24'^^xsd:dateTime ;
     skos:altLabel 'Biota_RadAct'^^xsd:string ;
     skos:prefLabel 'Radioactivity in biota'^^xsd:string ;
@@ -374,7 +374,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/CAPH/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/CAPH/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/CAPH/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/CAPH/> ;
     dc:modified '2007-02-23T15:09:47'^^xsd:dateTime ;
     skos:altLabel 'Air_Press'^^xsd:string ;
     skos:prefLabel 'Air pressure'^^xsd:string ;
@@ -390,7 +390,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/WSTR/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/WSTR/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/WSTR/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/WSTR/> ;
     dc:modified '2007-02-23T14:59:38'^^xsd:dateTime ;
     skos:altLabel 'WindForces'^^xsd:string ;
     skos:prefLabel 'Wind stress and shear'^^xsd:string ;
@@ -406,7 +406,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/HFLX/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/HFLX/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/HFLX/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/HFLX/> ;
     dc:modified '2007-02-23T14:49:48'^^xsd:dateTime ;
     skos:altLabel 'WCAt_HeatFlux'^^xsd:string ;
     skos:prefLabel 'Heat fluxes between the water column and the atmosphere'^^xsd:string ;
@@ -422,7 +422,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/NTRA/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/NTRA/3/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/NTRA/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/NTRA/> ;
     dc:modified '2007-02-01T09:10:12'^^xsd:dateTime ;
     skos:altLabel 'WC_NO3'^^xsd:string ;
     skos:prefLabel 'Nitrate concentration parameters in the water column'^^xsd:string ;
@@ -438,7 +438,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/RFVL/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/RFVL/2/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/RFVL/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/RFVL/> ;
     dc:modified '2007-01-18T16:38:20'^^xsd:dateTime ;
     skos:altLabel 'Horiz_Currents_WC'^^xsd:string ;
     skos:prefLabel 'Horizontal velocity of the water column (currents)'^^xsd:string ;
@@ -454,7 +454,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LGCR/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/LGCR/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/LGCR/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/LGCR/> ;
     dc:modified '2007-01-18T16:36:09'^^xsd:dateTime ;
     skos:altLabel 'Lagran_Currents_WC'^^xsd:string ;
     skos:prefLabel 'Lagrangian currents and transport rates in the water column'^^xsd:string ;
@@ -470,7 +470,7 @@
 <feed> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/ACNT/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/ACNT/1/>
     a skos:Concept ;
-    dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/current/ACNT/";
+    dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/ACNT/> ;
     dc:modified '2007-01-08T16:45:03'^^xsd:dateTime ;
     skos:altLabel 'Macroalgae+Seagrass_taxa_count'^^xsd:string ;
     skos:prefLabel 'Macroalgae and seagrass taxonomy-related counts'^^xsd:string ;
