@@ -13,7 +13,7 @@
     
     tree:relation [
       a tree:LessThanRelation ;
-      tree:node <https://marine-term-translations.github.io/P02-TEST/P02/2020_12_31_00_00_00_2021_01_01_00_00_00.ttl> ;
+      tree:node <https://marine-term-translations.github.io/P02-TEST/P02/2020_01_01_00_00_00_2020_12_31_00_00_00.ttl> ;
       tree:path dc:modified ;
       tree:value '2021-12-31T00:00:00+00:00'^^xsd:dateTime
     ] ;
